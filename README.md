@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mr-Maybe
 - 👀 I’m interested in many things, changing all the time!
-- 🌱 I’m currently learning Artificial Intelligence Bachelor
+- 🌱 I’m currently learning Artificial Intelligence, as a Bachelor
 - 💞️ I’m looking to collaborate on future projects, nothing right now.
 - 📫 How to reach me: 
   - Twitter: @MrMaybe20
