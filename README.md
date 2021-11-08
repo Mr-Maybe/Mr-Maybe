@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Artificial Intelligence Bachelor
 - 💞️ I’m looking to collaborate on future projects, nothing right now.
 - 📫 How to reach me: 
-
 -> Twitter: @MrMaybe20
 -> Discord: MrMaybe#1511
 
